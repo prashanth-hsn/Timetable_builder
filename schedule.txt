@@ -1,0 +1,32 @@
+# Weekly timetable - example
+title: DP's Weekly Timetable
+name:  2nd Grade
+range: 07:30-19:00
+squeeze: 08:00-15:30
+note:  Minecraft on Sunday: 4 of 5 tasks = 30 min
+
+# Fixed schedule
+Mon-Fri | 08:00-15:30 | School
+Mon,Wed | 16:45-18:15 | Football
+Tue     | 17:15-18:05 | Piano class
+Fri     | 17:00-17:45 | Swimming
+Sat     | 09:30-10:15 | Swimming
+
+# TV -Time
+Mon | 16:00-16:40 | TV 
+Tue | 16:00-16:30 | TV 
+Wed | 16:00-16:40 | TV 
+Thu | 16:00-16:40 | TV 
+Fri | 16:00-16:40 | TV 
+
+# Home schedule
+
+Thu | 17:00-17:15 | Piano practice | task
+Thu | 17:20-17:45 | Homework | task
+
+Fri | 18:30-19:00 | Homework | task
+Tue | 16:30-16:45 | Piano practice | task
+
+Sat     | 11:00-11:15 | Piano practice | task
+
+Sun     | 15:00-15:30 | Minecraft | reward
